@@ -2,6 +2,7 @@ input {
     color: #143d59;
     background-color: #f4b41a;
     height: 30px;
+    width: 40%;
     border-radius: 10px;
 }
 button {
@@ -19,25 +20,27 @@ button {
     background-color: #143d59;
     width: max-content;
     height: max-content;
+    box-shadow: 5px 5px 5px;
 }
 .heading {
-    font-size: 30px;
+    font-size: 25px;
     color: #f4b41a;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Orbitron', sans-serif;
 }
 .head {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 15px;
     color: #f4b41a;
 }
 .box1 {
-    margin: 70px;
+    margin: 50px;
 }
 .display {
     border-radius: 10px;
     background-color: #f4b41a;
     color: #143d59;
     height: 30px;
+    width: 80%;
 }
 body {
     display: flex;
